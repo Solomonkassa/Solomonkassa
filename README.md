@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Solomon-Kassa</h1>
 <h3 align="center">A passionate full stack developer from Ethiopia</h3>
-<img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/118729276/213139130-c9be8702-95df-4b78-a803-5794eabc3b0c.png">
+<img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/118729276/213139130-c9be8702-95df-4b78-a803-5794eabc3b0c.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solomonkassa&label=Profile%20views&color=0e75b6&style=flat" alt="solomonkassa" /> </p>
