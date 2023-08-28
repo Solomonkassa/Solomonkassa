@@ -1,50 +1,89 @@
 <h1 align="center">Hi 👋, I'm Solomon-Kassa</h1>
 <h3 align="center">A passionate full stack developer from Ethiopia</h3>
 <p align="center">
-    <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding" width="400" style="border-radius: 50%; margin: 20px;">
+    <img src="https://github.com/Solomonkassa/Solomonkassa/blob/main/Programming.gif" alt="coding" width="400" style="border-radius: 50%; margin: 20px;">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solomonkassa&label=Profile%20views&color=0e75b6&style=flat" alt="solomonkassa" /> </p>
 
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solomonkassa" alt="solomonkassa" /></a> 
+
+- 🌱 I’m currently learning flutter,express js , Vuex   
+- 👯 I’m looking to collaborate on any Web Development related project
+- 🤔 I’m looking for help with Devops, websoket, Docker
+- 💬 Ask me about anything related Web Dev, Cyber Security
+- 📫 How to reach me: solomonmulu57@gmailmail.com
+- 🌐 Checkout my Portfolio: https://solomon-kassa1.onrender.com/
+<!-- - 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
+
+
+<h2>⚡ Technology Stack</h2>
+
+<h3>Languages & Framework: </h3>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> &nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> &nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" /> &nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;&nbsp;
+
+
+ </p>
+
+<h3>Cloud & Hosting: </h3>
+<p>
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/solomonkassa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="solomonkassa" height="30" width="40" /></a>
-    <a href="https://fb.com/solomonkassa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="solomonkassa" height="30" width="40" /></a>
-    <a href="https://instagram.com/solomonkassa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="solomonkassa" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/solomonkassa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="solomonkassa" height="30" width="40" /></a>
+<h3>IDEs I Use: </h3>
+<p>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />&nbsp;;
+<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />&nbsp;&nbsp; </p>
+
+<h3>Design Tools I USe: </h3>
+<p>
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;</p>
+
+<h3>Operating Systems: </h3>
+<p>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" style="margin: 5px;"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" style="margin: 5px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin: 5px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin: 5px;"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" style="margin: 5px;"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin: 5px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin: 5px;"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" style="margin: 5px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 5px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin: 5px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin: 5px;"> 
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40" style="margin: 5px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="margin: 5px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 5px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin: 5px;"> 
-</p>
+<br/>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=solomonkassa&show_icons=true&locale=en&layout=compact" alt="solomonkassa" />
-</p>
+<h2>📃 Github Stats</h2>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=solomonkassa&show_icons=true&locale=en" alt="solomonkassa" />
-</p>
+<br/>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=solomonkassa" alt="solomonkassa" />
-</p>
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=solomonkassa&theme=algolia&show_icons=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=solomonkassa&theme=algolia)
+<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solomonkassa&theme=algolia)
+<br />
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=solomonkassa&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=solomonkassa&theme=algolia)
+</div>
