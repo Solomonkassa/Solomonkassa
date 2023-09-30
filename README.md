@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on any Web Development related project
 - 🤔 I’m looking for help with Devops, websoket, Docker
 - 💬 Ask me about anything related Web Dev, Cyber Security
-- 📫 How to reach me: solomonmulu57@gmailmail.com
+- 📫 How to reach me: solomonmulu57@gmail.com
 - 🌐 Checkout my Portfolio: https://solomon-kassa1.onrender.com/
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
