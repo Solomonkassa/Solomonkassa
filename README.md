@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 <h1 align="center">Hi 👋, I'm Solomon-Kassa</h1>
 <h3 align="center">A passionate full stack developer from Ethiopia</h3>
 <p align="center">
@@ -76,7 +77,7 @@
 <h2>📃 Github Stats</h2>
 
 <br/>
-
+<div class="container">
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=solomonkassa&theme=algolia&show_icons=true)
@@ -86,4 +87,5 @@
 <br />
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=solomonkassa&theme=algolia)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=solomonkassa&theme=algolia)
+</div>
 </div>
