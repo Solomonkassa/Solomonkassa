@@ -1,19 +1,23 @@
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-<h1 align="center">Hi 👋, I'm Solomon-Kassa</h1>
-<h3 align="center">A passionate full stack developer from Ethiopia</h3>
+<!-- Add this to your README.md -->
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
+<h3 align="center">I'm Solomon-Kassa, a passionate full stack developer from Ethiopia</h3>
+
 <p align="center">
-    <img src="https://github.com/Solomonkassa/Solomonkassa/blob/main/Programming.gif" alt="coding" width="400" style="border-radius: 50%; margin: 20px;">
+  <img src="https://github.com/Solomonkassa/Solomonkassa/blob/main/Programming.gif" alt="coding" width="400" style="border-radius: 50%; margin: 20px;">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=solomonkassa&label=Profile%20views&color=0e75b6&style=flat" alt="solomonkassa" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=solomonkassa&label=Profile%20views&color=0e75b6&style=flat" alt="solomonkassa">
+</p>
 
-
-- 🌱 I’m currently learning flutter,express js , Vuex   
+- 🌱 I’m currently learning flutter, express.js, Vuex   
 - 👯 I’m looking to collaborate on any Web Development related project
-- 🤔 I’m looking for help with Devops, websoket, Docker
-- 💬 Ask me about anything related Web Dev, Cyber Security
+- 🤔 I’m looking for help with DevOps, WebSocket, Docker
+- 💬 Ask me about anything related to Web Dev, Cyber Security
 - 📫 How to reach me: solomonmulu57@gmail.com
-- 🌐 Checkout my Portfolio: https://solomon-kassa1.onrender.com/
+- 🌐 [Checkout my Portfolio](https://solomon-kassa1.onrender.com/)
+
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
