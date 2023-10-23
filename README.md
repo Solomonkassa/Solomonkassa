@@ -1,5 +1,5 @@
 <!-- Add this to your README.md -->
-<img src="./profile-3d-contrib/profile-night-view.svg">
+<img src="https://github.com/Solomonkassa/Solomonkassa/blob/main/profile-night-view.svg">
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h3 align="center">I'm Solomon-Kassa, a passionate full stack developer from Ethiopia</h3>
