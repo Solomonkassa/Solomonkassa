@@ -1,6 +1,6 @@
 <!-- Add this to your README.md -->
 <img src="https://github.com/Solomonkassa/Solomonkassa/blob/main/profile-season-animate.svg">
-<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
 
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+SOLOMON+KASSA;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
 <p align="center">
