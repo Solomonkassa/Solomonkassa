@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> &nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" /> &nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;
@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+  
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;&nbsp;
 
 
@@ -84,13 +84,8 @@
 <div class="container">
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=solomonkassa&theme=algolia&show_icons=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=solomonkassa&theme=algolia)
-<br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solomonkassa&theme=algolia)
-<br />
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=solomonkassa&theme=algolia)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=solomonkassa&theme=algolia)
 </div>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
