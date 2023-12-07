@@ -16,7 +16,7 @@
 - 🤔 I’m looking for help with DevOps, WebSocket, Docker
 - 💬 Ask me about anything related to Web Dev, Cyber Security
 - 📫 How to reach me: solomonmulu57@gmail.com
-- 🌐 [Checkout my Portfolio](https://solomon-kassa1.onrender.com/)
+- 🌐 [Checkout my Portfolio]()
 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
