@@ -130,13 +130,13 @@
   </tr>
 </table>
 
+- 🌱 I’m currently learning Flutter, Express.js, Vuex  
+- 👯 I’m looking to collaborate on any Web Development related project  
+- 🤔 I’m looking for help with DevOps, WebSocket, Docker  
+- 💬 Ask me about anything related to Web Dev, Cyber Security  
+- 📫 How to reach me: solomonkassa@jedantechnology.site  
+- 🌐 [Checkout my Portfolio](https://solomonkassa.et)  
 
-- 🌱 I’m currently learning flutter, express.js, Vuex   
-- 👯 I’m looking to collaborate on any Web Development related project
-- 🤔 I’m looking for help with DevOps, WebSocket, Docker
-- 💬 Ask me about anything related to Web Dev, Cyber Security
-- 📫 How to reach me: solomonmulu57@gmail.com
-- 🌐 [Checkout my Portfolio]()
 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
