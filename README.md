@@ -127,11 +127,6 @@
   </tr>
 </table>
 
-- 🌱 I’m currently learning Flutter, Express.js, Vuex  
-- 👯 I’m looking to collaborate on any Web Development related project  
-- 🤔 I’m looking for help with DevOps, WebSocket, Docker  
-- 💬 Ask me about anything related to Web Dev, Cyber Security  
-- 📫 How to reach me: solomonkassa@jedantechnology.site  
 - 🌐 [Solomon Kassa](https://solomonkassa.et)  
 
 ---
