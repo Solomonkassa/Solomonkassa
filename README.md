@@ -1,6 +1,3 @@
-<!-- Add this to your README.md -->
-
-
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -135,11 +132,9 @@
 - 🤔 I’m looking for help with DevOps, WebSocket, Docker  
 - 💬 Ask me about anything related to Web Dev, Cyber Security  
 - 📫 How to reach me: solomonkassa@jedantechnology.site  
-- 🌐 [Checkout my Portfolio](https://solomonkassa.et)  
+- 🌐 [Solomon Kassa](https://solomonkassa.et)  
 
-
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+---
 
 <h3>Operating Systems: </h3>
 <p>
@@ -151,14 +146,25 @@
 
 <br/>
 
-<h2>📃 Github Stats</h2>
+# 𝕿𝖊𝖈𝖍 𝕽𝖆𝖉𝖆𝖗: 𝖁𝖎𝖘𝖚𝖆𝖑𝖎𝖟𝖆𝖙𝖎𝖔𝖓
 
-<br/>
-<div class="container">
-<div align="center">
-  
+<!-- Alternative using HTML tables for perfect alignment -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=solomonkassa&theme=algolia" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=solomonkassa&theme=algolia" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=solomonkassa&theme=algolia" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=solomonkassa&theme=algolia&utcOffset=8" width="400"/>
+    </td>
+  </tr>
+</table>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=solomonkassa&theme=algolia)
-</div>
-
-</div>
