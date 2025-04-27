@@ -130,6 +130,9 @@
 - 🌐 [Solomon Kassa](https://solomonkassa.et)  
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=solomonkassa&label=Profile%20views&color=0e75b6&style=flat" alt="solomonkassa" />
+</p>
 
 <h3>Operating Systems: </h3>
 <p>
