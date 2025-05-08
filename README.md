@@ -168,4 +168,3 @@
 
 
 ![github contribution grid snake animation](https://github.com/Solomonkassa/Solomonkassa/blob/main/github-contribution-grid-snake-dark.svg)
-![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake.svg#gh-light-mode-only)
