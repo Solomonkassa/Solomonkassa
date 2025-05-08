@@ -146,7 +146,7 @@
 
 # 𝕿𝖊𝖈𝖍 𝕽𝖆𝖉𝖆𝖗: 𝖁𝖎𝖘𝖚𝖆𝖑𝖎𝖟𝖆𝖙𝖎𝖔𝖓
 
-<!-- Alternative using HTML tables for perfect alignment -->
+
 <table align="center">
   <tr>
     <td align="center">
