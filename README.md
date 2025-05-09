@@ -144,27 +144,59 @@
 
 <br/>
 
-# 𝕿𝖊𝖈𝖍 𝕽𝖆𝖉𝖆𝖗: 𝖁𝖎𝖘𝖚𝖆𝖑𝖎𝖟𝖆𝖙𝖎𝖔𝖓
+# 𝕿𝖊𝖈𝖍 𝕽𝖆𝖉𝖆𝖗: 𝖁𝖎𝖘𝖚𝖆𝖑𝖎𝖟𝖆𝖙𝖎𝖔𝖓 𝕯𝖆𝖘𝖍𝖇𝖔𝖆𝖗𝖉
 
+<div align="center">
+  
+![Dashboard Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=27DDB5&center=true&vCenter=true&width=800&height=50&lines=🚀+Dynamic+GitHub+Profile+Analytics;📊+Real-time+Coding+Activity;🌍+Open+Source+Impact+Visualization)
+
+</div>
+
+## 📊 GitHub Activity Matrix
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=solomonkassa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&line_height=27&custom_title=Development+Activity" width="400"/>
+      <br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=solomonkassa&theme=algolia&hide_border=true&fire=DD2727&ring=52DD27&background=0D1117" width="400"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=solomonkassa&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Heatmap&radius=12" width="400"/>
+      <br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=solomonkassa&theme=algolia&utcOffset=3&hide_border=true" width="400"/>
+    </td>
+  </tr>
+</table>
+
+## 🌐 Language & Project Distribution
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=solomonkassa&theme=algolia" width="400"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=solomonkassa&theme=algolia&exclude=html,css,scss&hide_border=true" width="400" alt="Repository Distribution"/>
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=solomonkassa&theme=algolia" width="400"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=solomonkassa&theme=algolia" width="400"/>
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=solomonkassa&theme=algolia&utcOffset=8" width="400"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=solomonkassa&theme=algolia&hide_border=true" width="400" alt="Commit Activity"/>
     </td>
   </tr>
 </table>
+
+## 🚀 Dynamic Components
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#0D1117', 'edgeLabelBackground':'#161B22', 'tertiaryColor': '#238636'}}}%%
+gantt
+    title Quarterly Contribution Trends
+    dateFormat  YYYY-MM-DD
+    axisFormat %b '%y
+    section Core Development
+    Backend Systems   :active,  des1, 2023-01-01, 2023-12-31
+    Frontend Updates  :         des2, 2023-04-01, 2023-09-30
+    section Open Source
+    Community PRs     :         des3, 2023-02-15, 2023-11-30
+    Documentation     :         des4, 2023-06-01, 2023-08-31
+```
 
 
 ![github contribution grid snake animation](https://github.com/Solomonkassa/Solomonkassa/blob/main/github-contribution-grid-snake-dark.svg)
