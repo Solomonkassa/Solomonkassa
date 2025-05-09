@@ -197,6 +197,3 @@ gantt
     Community PRs     :         des3, 2023-02-15, 2023-11-30
     Documentation     :         des4, 2023-06-01, 2023-08-31
 ```
-
-
-![github contribution grid snake animation](https://github.com/Solomonkassa/Solomonkassa/blob/main/github-contribution-grid-snake-dark.svg)
