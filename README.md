@@ -148,7 +148,7 @@
 
 <div align="center">
   
-![Dashboard Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=27DDB5&center=true&vCenter=true&width=800&height=50&lines=🚀+Dynamic+GitHub+Profile+Analytics;📊+Real-time+Coding+Activity;🌍+Open+Source+Impact+Visualization)
+![Dashboard Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=27DDB5&center=true&vCenter=true&width=800&height=50&lines=🚀+Dynamic+Profile+Analytics;📊+Real-time+Coding+Activity;)
 
 </div>
 
