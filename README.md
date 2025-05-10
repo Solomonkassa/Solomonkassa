@@ -135,7 +135,11 @@
   <img src="https://img.shields.io/badge/Hireable-Yes-brightgreen?style=flat-square&logo=freelancer" />
 </p>
 
-- 🌐 [Solomon Kassa](https://solomonkassa.et)  
+<p align="center">
+  <a href="https://solomonkassa.et" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🌐 Solomon%20Kassa-00BFFF?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Solomon Kassa Website Badge" />
+  </a>
+</p>
 
 ---
 <p align="center">
