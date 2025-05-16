@@ -126,14 +126,14 @@
     </td>
   </tr>
 </table>
-
-
 <!-- Stats -->
 <p align="center">
-  
+  <img src="https://img.shields.io/github/followers/Solomonkassa?label=Followers&style=social" />
   <img src="https://img.shields.io/badge/Public%20Repos-166-green?style=flat-square&logo=codeforces" />
   <img src="https://img.shields.io/badge/Hireable-Yes-brightgreen?style=flat-square&logo=freelancer" />
 </p>
+
+
 
 <p align="center">
   <a href="https://solomonkassa.et" target="_blank" rel="noopener noreferrer">
