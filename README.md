@@ -130,7 +130,7 @@
 
 <!-- Stats -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Followers-1082-blue?style=flat-square&logo=github" />
+  
   <img src="https://img.shields.io/badge/Public%20Repos-166-green?style=flat-square&logo=codeforces" />
   <img src="https://img.shields.io/badge/Hireable-Yes-brightgreen?style=flat-square&logo=freelancer" />
 </p>
