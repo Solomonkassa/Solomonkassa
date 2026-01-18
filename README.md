@@ -188,9 +188,7 @@
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=solomonkassa&theme=algolia&exclude=html,css,scss&hide_border=true" width="400" alt="Repository Distribution"/>
     </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=solomonkassa&theme=algolia&hide_border=true" width="400" alt="Commit Activity"/>
-    </td>
+ 
   </tr>
 </table>
 
