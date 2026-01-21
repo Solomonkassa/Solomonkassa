@@ -188,22 +188,10 @@
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=solomonkassa&theme=algolia&exclude=html,css,scss&hide_border=true" width="400" alt="Repository Distribution"/>
     </td>
- 
+    <td align="center">
+      <img src="https://github.pumbas.net/api/contributions/solomonkassa" width="400" alt="Repository Distribution"/>
+    </td>
   </tr>
 </table>
 
-## 🚀 Dynamic Components
 
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#0D1117', 'edgeLabelBackground':'#161B22', 'tertiaryColor': '#238636'}}}%%
-gantt
-    title Quarterly Contribution Trends
-    dateFormat  YYYY-MM-DD
-    axisFormat %b '%y
-    section Core Development
-    Backend Systems   :active,  des1, 2023-01-01, 2023-12-31
-    Frontend Updates  :         des2, 2023-04-01, 2023-09-30
-    section Open Source
-    Community PRs     :         des3, 2023-02-15, 2023-11-30
-    Documentation     :         des4, 2023-06-01, 2023-08-31
-```
