@@ -153,8 +153,6 @@
   <img src="https://komarev.com/ghpvc/?username=solomonkassa&label=Profile%20views&color=0ea5e9&style=for-the-badge&labelColor=1e293b" alt="Profile Views" />
 </p>
 
-  ![committers.top badge](https://user-badge.committers.top/ethiopia_public/Solomonkassa.svg)
-
 </div>
 
 ## 🖥️ Operating Systems
