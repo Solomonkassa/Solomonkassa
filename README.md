@@ -191,47 +191,22 @@
     <td align="center">
       <h3>📅 Contribution Graph</h3>
       <div>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=solomonkassa&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&radius=12&height=200" alt="Activity Graph" width="400"/>
+        <img src="https://github.pumbas.net/api/contributions/solomonkassa" width="800" alt="Contribution Timeline"/>
       </div>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <h3>🔥 Contribution Streak</h3>
-      <div>
-        <img src="https://streak-stats.demolab.com/?user=solomonkassa&theme=algolia&hide_border=true&fire=DD2727&ring=52DD27&background=0D1117" alt="GitHub Streak" width="400"/>
-      </div>
-    </td>
-    <td align="center">
-      <h3>⏰ Productivity Stats</h3>
-      <div>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=solomonkassa&theme=algolia&utcOffset=3&hide_border=true" alt="Productive Time" width="400"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-## 🌐 Language & Project Distribution
-
-<div align="center">
-
-<table>
   <tr>
     <td align="center">
       <h3>📚 Languages Used</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solomonkassa&layout=compact&theme=algolia&hide_border=true&exclude_repo=github-readme-stats" width="400" alt="Top Languages"/>
+      <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solomonkassa&layout=compact&theme=algolia&hide_border=true&exclude_repo=github-readme-stats" width="400" alt="Top Languages"/>
+      </div>
     </td>
     <td align="center">
       <h3>📊 Repos per Language</h3>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=solomonkassa&theme=algolia&hide_border=true" width="400" alt="Repositories per Language"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <h3>📈 Contribution Timeline</h3>
-      <img src="https://github.pumbas.net/api/contributions/solomonkassa" width="800" alt="Contribution Timeline"/>
+      <div>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=solomonkassa&theme=algolia&hide_border=true" width="400" alt="Repositories per Language"/>
+      </div>
     </td>
   </tr>
 </table>
