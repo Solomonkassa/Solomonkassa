@@ -138,7 +138,7 @@
   <a href="https://github.com/Solomonkassa?tab=repositories">
     <img src="https://img.shields.io/badge/Public%20Repos-166-10b981?style=for-the-badge&logo=github&labelColor=1e293b" alt="Public Repositories" />
   </a>
-  <a href="https://www.linkedin.com/in/solomon-kassa/">
+  <a href="https://www.linkedin.com/in/solomonmulukassa/">
     <img src="https://img.shields.io/badge/Hireable-Yes-22c55e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e293b" alt="Hireable Status" />
   </a>
 </p>
