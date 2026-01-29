@@ -185,7 +185,7 @@
     <td align="center">
       <h3>📊 Development Stats</h3>
       <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=solomonkassa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&line_height=27&custom_title=Development%20Stats" alt="GitHub Stats" width="400"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=solomonkassa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&line_height=27&custom_title=Development%20Stats" alt="GitHub Stats" width="800"/>
       </div>
     </td>
     <td align="center">
@@ -199,13 +199,13 @@
     <td align="center">
       <h3>📚 Languages Used</h3>
       <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solomonkassa&layout=compact&theme=algolia&hide_border=true&exclude_repo=github-readme-stats" width="400" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solomonkassa&layout=compact&theme=algolia&hide_border=true&exclude_repo=github-readme-stats" width="800" alt="Top Languages"/>
       </div>
     </td>
     <td align="center">
       <h3>📊 Repos per Language</h3>
       <div>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=solomonkassa&theme=algolia&hide_border=true" width="400" alt="Repositories per Language"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=solomonkassa&theme=algolia&hide_border=true" width="800" alt="Repositories per Language"/>
       </div>
     </td>
   </tr>
